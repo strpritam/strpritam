@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritam+Gupta;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritam+Gupta;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </h1>
+
+
 
 <p align="center">
   <a href="https://linkedin.com/in/pritamgupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
