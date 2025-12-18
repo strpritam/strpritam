@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+javascript
 const pritam = {
   role: "Full Stack Developer",
   location: "Jalandhar, India",
@@ -25,7 +25,7 @@ const pritam = {
   askMeAbout: ["React", "Node.js", "APIs", "System Design"],
   funFact: "I debug with console.log and I'm proud of it 😄"
 };
-```
+
 
 ## 🛠️ Tech Stack
 
